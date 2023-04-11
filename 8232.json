@@ -1,0 +1,12 @@
+{
+    "name": "Zauberwolke",
+    "description": "Im Katjes Wunderland ziehen Wolken auf... das sind allerdings keine gewöhnlichen Wolken, sondern Zauberwolken! Diese erscheinen nur alle 100 Jahre im Wunderland und in ihnen hat sich etwas ganz Besonderes versteckt.",
+    "image": "https://twire.mypinata.cloud/ipfs/QmfQoa3mXsCBV8ad6WEjQZTpUHeEpvQ16YqbPZevSswZ2L?pinataGatewayToken=Zgy908bAzzGy3hWhHtX13lMiRLeC88T9kvRhyOQw3hMLJqRZdOtgmf7yj3Cl9XHg",
+    "external_url": "https://wunderland.katjes.de/",
+    "attributes": [
+        {
+            "trait_type": "Zuhause",
+            "value": "Wunderland"
+        }
+    ]
+}
